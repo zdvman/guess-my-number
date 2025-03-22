@@ -40,6 +40,15 @@ In this game, the computer randomly selects a secret number between **1 and 20**
 6. Click **"Again!"** to start a new round.
 
 ---
+## Images
+
+![image_2025-03-22_22-04-03](https://github.com/user-attachments/assets/e207492b-b843-47ef-a36d-d65a83237e8e)
+
+### won the game
+
+![image_2025-03-22_22-10-39](https://github.com/user-attachments/assets/4c5c5015-d3c3-47c9-aeee-cea055220767)
+
+---
 
 ## 🧠 What I Learned
 
