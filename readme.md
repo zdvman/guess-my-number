@@ -18,6 +18,12 @@ In this game, the computer randomly selects a secret number between **1 and 20**
 
 ---
 
+## 📸 Preview
+
+[https://zdvman-guess-my-number.netlify.app/](https://zdvman-guess-my-number.netlify.app/)
+
+---
+
 ## 📂 Project Structure
 
 ```
@@ -60,17 +66,36 @@ In this game, the computer randomly selects a secret number between **1 and 20**
 
 ---
 
-## 📚 Acknowledgements
+## 🙋‍♂️ About the Developer
 
-This project is based on the **[JavaScript course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)**.
+I'm **Dmytro Zuiev**, a passionate self-taught frontend developer. I built this project as part of my journey to master JavaScript and create visually engaging and performant websites.
+
+- GitHub: [@zdvman](https://github.com/zdvman)
+- LinkedIn: [zdvman](https://www.linkedin.com/in/zdvman)
+
+---
+
+## 🧠 Acknowledgements
+
+This project is heavily inspired by the teachings of [Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/) as part of his _Complete JavaScript Course_.
+It is recreated for **educational** and **portfolio** purposes only.
 
 ---
 
-## 🙋‍♂️ About Me
+## ✅ Status
 
-Hi! I’m [zdvman](https://github.com/zdvman), currently learning full-stack web development and building fun, interactive projects along the way.
-
-- 🔗 [GitHub](https://github.com/zdvman)
-- 💼 [LinkedIn](https://www.linkedin.com/in/zdvman/)
+✔️ Fully functional
+🧪 Tested in modern browsers
+📱 Not fully responsive – feel free to improve it!
 
 ---
+
+## 📝 License
+
+This project is intended for personal learning and portfolio use only.
+Please do not redistribute as your own product or use it commercially.
+
+---
+
+Thanks for visiting!
+If you liked this project, consider giving it a ⭐️ on GitHub!
